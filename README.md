@@ -29,9 +29,17 @@ The Word Solver is a Python application that takes input from the user and gener
 ## Usage
 
 1. Run the application:
+
    ```bash
    python app.py
    ```
+
+   or
+
+   ```bash
+   dotnet run
+   ```
+
 2. Enter the input when prompted.
 3. The application will display the generated words grouped by their length.
 
