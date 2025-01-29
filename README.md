@@ -47,14 +47,10 @@ Length 6: exampl
 Length 7: example
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@example.com](mailto:yourname@example.com).
+For any questions or suggestions, please contact [brandonnyakea@gmail.com](mailto:brandonnyakea@gmail.com).
