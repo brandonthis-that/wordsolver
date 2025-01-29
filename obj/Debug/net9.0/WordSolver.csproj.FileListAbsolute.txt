@@ -1,0 +1,15 @@
+C:\Users\Brandon\Desktop\WordSolver\bin\Debug\net9.0\WordSolver.exe
+C:\Users\Brandon\Desktop\WordSolver\bin\Debug\net9.0\WordSolver.deps.json
+C:\Users\Brandon\Desktop\WordSolver\bin\Debug\net9.0\WordSolver.runtimeconfig.json
+C:\Users\Brandon\Desktop\WordSolver\bin\Debug\net9.0\WordSolver.dll
+C:\Users\Brandon\Desktop\WordSolver\bin\Debug\net9.0\WordSolver.pdb
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.AssemblyInfoInputs.cache
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.AssemblyInfo.cs
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.sourcelink.json
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.dll
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\refint\WordSolver.dll
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.pdb
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\WordSolver.genruntimeconfig.cache
+C:\Users\Brandon\Desktop\WordSolver\obj\Debug\net9.0\ref\WordSolver.dll
