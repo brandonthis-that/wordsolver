@@ -13,6 +13,7 @@ The Word Solver is a Python application that takes input from the user and gener
 ## Requirements
 
 - Python 3.x
+- Dotnet 9
 
 ## Installation
 
