@@ -1,6 +1,9 @@
 from itertools import permutations
 from collections import defaultdict
 
+# todo
+# I need to update the console UI
+
 
 def load_words(filename="words.txt"):
     with open(filename, "r") as f:
