@@ -3,6 +3,7 @@ from collections import defaultdict
 
 # todo
 # I need to update the console UI
+# Add colors and lines to the console UI
 
 
 def load_words(filename="words.txt"):
