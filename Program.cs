@@ -1,4 +1,8 @@
-﻿using System;
+﻿// TODOS
+// create pleasant menu
+// use beautiful colors and lines to make the UI better
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
