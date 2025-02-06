@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordSolver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69233764287590d34a17591f60142e69320bf180")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c4ae909467a36e0ea35fafffb3d1ec1012e6ddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordSolver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordSolver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

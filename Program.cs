@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+
+
 class Program
 {
     static HashSet<string> LoadWords(string filename = "words.txt")
@@ -62,6 +64,7 @@ class Program
     static void Main()
     {
         var wordSet = LoadWords();
+        Console.Clear();
         Console.Write("Enter the letters: ");
         string letters = Console.ReadLine().ToLower();
 
