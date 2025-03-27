@@ -19,7 +19,7 @@ The Word Solver is a Python application that takes input from the user and gener
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/brandonthis-that/wordsolver-py.git
+   git clone https://github.com/brandonthis-that/wordsolver.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -62,4 +62,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or suggestions, please contact [brandonnyakea@gmail.com](mailto:brandonnyakea@gmail.com).
+For any questions or suggestions, please raise an Issue
